@@ -3,6 +3,7 @@ export default function handler(req, res) {
         body: req.body,
         query: req.query,
         cookies: req.cookies,
-        index: true
+        index: true,
+        hola: "Buenas"
     })
 }
