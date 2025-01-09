@@ -11,6 +11,8 @@
     "start": "next"
   },
   "dependencies": {
+    "micro": "^10.0.1",
+    "micro-method-router": "^0.1.0",
     "next": "^15.1.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
